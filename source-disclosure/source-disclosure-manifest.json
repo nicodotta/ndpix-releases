@@ -1,0 +1,15 @@
+{
+  "ndpixVersion": "1.0.0",
+  "requiredSources": [
+    {
+      "component": "Qt 6.7.0",
+      "license": "LGPLv3",
+      "path": "source-disclosure/qt/qt-6.7.0"
+    },
+    {
+      "component": "LibRaw 0.22.0",
+      "license": "CDDL-1.0",
+      "path": "source-disclosure/libraw/libraw-0.22.0"
+    }
+  ]
+}
