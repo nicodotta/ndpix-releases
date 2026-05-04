@@ -2,12 +2,28 @@
   "ndpixVersion": "1.0.0",
   "requiredSources": [
     {
-      "component": "Qt 6.7.0",
+      "component": "Qt Base 6.7.0",
       "license": "LGPLv3",
-      "path": "source-disclosure/qt/qt-6.7.0",
-      "archiveAsset": "qt-everywhere-src-6.7.0.zip",
-      "sha256Asset": "qt-everywhere-src-6.7.0.sha256",
-      "upstreamUrl": "https://download.qt.io/archive/qt/6.7/6.7.0/single/qt-everywhere-src-6.7.0.zip"
+      "path": "source-disclosure/qt/qtbase-6.7.0",
+      "archiveAsset": "qtbase-everywhere-src-6.7.0.zip",
+      "sha256Asset": "qtbase-everywhere-src-6.7.0.sha256",
+      "upstreamUrl": "https://download.qt.io/archive/qt/6.7/6.7.0/submodules/qtbase-everywhere-src-6.7.0.zip"
+    },
+    {
+      "component": "Qt SVG 6.7.0",
+      "license": "LGPLv3",
+      "path": "source-disclosure/qt/qtsvg-6.7.0",
+      "archiveAsset": "qtsvg-everywhere-src-6.7.0.zip",
+      "sha256Asset": "qtsvg-everywhere-src-6.7.0.sha256",
+      "upstreamUrl": "https://download.qt.io/archive/qt/6.7/6.7.0/submodules/qtsvg-everywhere-src-6.7.0.zip"
+    },
+    {
+      "component": "Qt Translations 6.7.0",
+      "license": "LGPLv3",
+      "path": "source-disclosure/qt/qttranslations-6.7.0",
+      "archiveAsset": "qttranslations-everywhere-src-6.7.0.zip",
+      "sha256Asset": "qttranslations-everywhere-src-6.7.0.sha256",
+      "upstreamUrl": "https://download.qt.io/archive/qt/6.7/6.7.0/submodules/qttranslations-everywhere-src-6.7.0.zip"
     },
     {
       "component": "LibRaw 0.22.0",
