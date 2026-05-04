@@ -4,12 +4,18 @@
     {
       "component": "Qt 6.7.0",
       "license": "LGPLv3",
-      "path": "source-disclosure/qt/qt-6.7.0"
+      "path": "source-disclosure/qt/qt-6.7.0",
+      "archiveAsset": "qt-everywhere-src-6.7.0.zip",
+      "sha256Asset": "qt-everywhere-src-6.7.0.sha256",
+      "upstreamUrl": "https://download.qt.io/archive/qt/6.7/6.7.0/single/qt-everywhere-src-6.7.0.zip"
     },
     {
       "component": "LibRaw 0.22.0",
       "license": "CDDL-1.0",
-      "path": "source-disclosure/libraw/libraw-0.22.0"
+      "path": "source-disclosure/libraw/libraw-0.22.0",
+      "archiveAsset": "LibRaw-0.22.0-source.zip",
+      "sha256Asset": "LibRaw-0.22.0-source.sha256",
+      "upstreamUrl": "https://github.com/LibRaw/LibRaw/archive/refs/tags/0.22.0.zip"
     }
   ]
 }

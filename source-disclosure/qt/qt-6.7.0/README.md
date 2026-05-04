@@ -8,6 +8,10 @@ Official upstream source archive used for this release line:
 
 https://download.qt.io/archive/qt/6.7/6.7.0/single/qt-everywhere-src-6.7.0.zip
 
+GitHub Release source asset:
+
+qt-everywhere-src-6.7.0.zip
+
 SHA-256:
 
 9d5f98de73abc7411dcec2df729f64dd25f8021eff140155ec410950cad24fb5

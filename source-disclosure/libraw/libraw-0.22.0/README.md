@@ -8,6 +8,10 @@ Upstream source archive for the shipped LibRaw release:
 
 https://github.com/LibRaw/LibRaw/archive/refs/tags/0.22.0.zip
 
+GitHub Release source asset:
+
+LibRaw-0.22.0-source.zip
+
 Release notes:
 
 https://www.libraw.org/news/libraw-0-22-0-release
