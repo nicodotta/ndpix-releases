@@ -1,7 +1,6 @@
 {
-  "ndpixVersion": "1.0.0",
+  "ndpixVersion": "1.0.1",
   "platforms": [
-    "macos",
     "windows"
   ],
   "requiredSources": [
@@ -40,51 +39,6 @@
       "archiveAsset": "LibRaw-0.22.0-source.zip",
       "sha256Asset": "LibRaw-0.22.0-source.sha256",
       "upstreamUrl": "https://github.com/LibRaw/LibRaw/archive/refs/tags/0.22.0.zip"
-    },
-    {
-      "component": "Qt Base 6.10.2",
-      "license": "LGPLv3",
-      "platform": "macos",
-      "path": "source-disclosure/qt/qtbase-6.10.2",
-      "archiveAsset": "qtbase-everywhere-src-6.10.2.zip",
-      "sha256Asset": "qtbase-everywhere-src-6.10.2.sha256",
-      "upstreamUrl": "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtbase-everywhere-src-6.10.2.zip"
-    },
-    {
-      "component": "Qt SVG 6.10.2",
-      "license": "LGPLv3",
-      "platform": "macos",
-      "path": "source-disclosure/qt/qtsvg-6.10.2",
-      "archiveAsset": "qtsvg-everywhere-src-6.10.2.zip",
-      "sha256Asset": "qtsvg-everywhere-src-6.10.2.sha256",
-      "upstreamUrl": "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtsvg-everywhere-src-6.10.2.zip"
-    },
-    {
-      "component": "Qt Declarative 6.10.2",
-      "license": "LGPLv3",
-      "platform": "macos",
-      "path": "source-disclosure/qt/qtdeclarative-6.10.2",
-      "archiveAsset": "qtdeclarative-everywhere-src-6.10.2.zip",
-      "sha256Asset": "qtdeclarative-everywhere-src-6.10.2.sha256",
-      "upstreamUrl": "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qtdeclarative-everywhere-src-6.10.2.zip"
-    },
-    {
-      "component": "Qt Translations 6.10.2",
-      "license": "LGPLv3",
-      "platform": "macos",
-      "path": "source-disclosure/qt/qttranslations-6.10.2",
-      "archiveAsset": "qttranslations-everywhere-src-6.10.2.zip",
-      "sha256Asset": "qttranslations-everywhere-src-6.10.2.sha256",
-      "upstreamUrl": "https://download.qt.io/official_releases/qt/6.10/6.10.2/submodules/qttranslations-everywhere-src-6.10.2.zip"
-    },
-    {
-      "component": "LibRaw 0.22.1",
-      "license": "CDDL-1.0",
-      "platform": "macos",
-      "path": "source-disclosure/libraw/libraw-0.22.1",
-      "archiveAsset": "LibRaw-0.22.1-source.tar.gz",
-      "sha256Asset": "LibRaw-0.22.1-source.sha256",
-      "upstreamUrl": "https://www.libraw.org/data/LibRaw-0.22.1.tar.gz"
     }
   ]
 }
