@@ -1,6 +1,6 @@
 # Qt SVG 6.7.0 Source Disclosure
 
-NDPix Windows 1.0.1 ships Qt SVG 6.7.0 under LGPLv3.
+NDPix Windows 1.0.2 ships Qt SVG 6.7.0 under LGPLv3.
 
 NDPix modifications to Qt: none.
 
