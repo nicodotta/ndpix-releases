@@ -1,6 +1,6 @@
 # Qt Base 6.7.0 Source Disclosure
 
-NDPix Windows 1.0.5 ships Qt Base 6.7.0 under LGPLv3.
+NDPix Windows 1.0.6 ships Qt Base 6.7.0 under LGPLv3.
 
 NDPix modifications to Qt: none.
 
