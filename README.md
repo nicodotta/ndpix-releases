@@ -5,6 +5,9 @@ material for NDPix, a desktop photo editing application by NicoDottaPhoto.
 
 ## Downloads
 
+<img width="1460" height="1065" alt="ndpix-photo-editor-photo-preview-zoom-map" src="https://github.com/user-attachments/assets/1d2ad96b-0b06-429a-b1f8-37180351505c" />
+<img width="1460" height="1065" alt="ndpix-photo-editor-radial-mask-local-adjustments" src="https://github.com/user-attachments/assets/e54aa3be-7db1-48dd-8ec0-18192831c30b" />
+
 The official NDPix download and information page is:
 
 <https://nicodottaphoto.com/ndpix-photo-editor/>
