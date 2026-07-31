@@ -1,6 +1,6 @@
 # LibRaw 0.22.0 Source Disclosure
 
-NDPix Windows 1.1.0 ships LibRaw 0.22.0 under CDDL-1.0.
+NDPix Windows 1.2.0 ships LibRaw 0.22.0 under CDDL-1.0.
 
 NDPix modifications to LibRaw: none.
 
