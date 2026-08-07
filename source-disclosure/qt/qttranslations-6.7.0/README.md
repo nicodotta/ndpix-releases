@@ -1,6 +1,6 @@
 # Qt Translations 6.7.0 Source Disclosure
 
-NDPix Windows 1.2.0 ships Qt Translations 6.7.0 under LGPLv3.
+NDPix Windows 1.2.1 ships Qt Translations 6.7.0 under LGPLv3.
 
 NDPix modifications to Qt: none.
 

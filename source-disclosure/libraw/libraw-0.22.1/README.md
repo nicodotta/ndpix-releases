@@ -1,8 +1,8 @@
 # LibRaw 0.22.1 Source Disclosure
 
-NDPix macOS 1.2.0 ships LibRaw 0.22.1 under CDDL-1.0.
+NDPix Windows 1.2.1 ships LibRaw 0.22.1 under CDDL-1.0.
 
-NDPix modifications to LibRaw: none.
+NDPix does not modify LibRaw's source files. NDPix builds LibRaw with -DENABLE_X3FTOOLS=ON to compile the bundled Foveon X3F decoder (Kalpanika x3f code, BSD-licensed) that already ships in the LibRaw source above; the default vcpkg port leaves that option off. The flag is applied by the NDPix vcpkg overlay port (third_party/vcpkg-overlays/libraw in the NDPix source tree), which also carries build-system patches to LibRaw-cmake (install layout and dependency resolution) that do not alter LibRaw's own code.
 
 
 Official upstream source archive used for this release line:
