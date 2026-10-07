@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img width="1460" height="1065" alt="ndpix-photo-editor-photo-preview-zoom-map" src="https://github.com/user-attachments/assets/1d2ad96b-0b06-429a-b1f8-37180351505c" />
+  <img width="1320" height="1009" alt="NDPix Photo Viewer with high-resolution inspection and zoom map" src="./assets/images/ndpix-tour-2-viewer.webp" />
 </p>
 
 ## Overview
@@ -75,7 +75,7 @@ The assets also include `.zip` archives consumed automatically by the background
 ## Key Features
 
 <p align="center">
-  <img width="1460" height="1065" alt="ndpix-photo-editor-radial-mask-local-adjustments" src="https://github.com/user-attachments/assets/e54aa3be-7db1-48dd-8ec0-18192831c30b" />
+  <img width="1306" height="972" alt="NDPix Light and Color Develop Sliders with live histogram" src="./assets/images/ndpix-develop-1-sliders.webp" />
 </p>
 
 ### 🛡️ Your Originals are Sacred
@@ -97,6 +97,10 @@ The assets also include `.zip` archives consumed automatically by the background
 * **Inpainting Spot Removal:** Telea, Navier-Stokes, and neural LaMa inpainting to seamlessly eliminate sensor dust, cables, and distractions.
 
 ### 📂 Organization Without Friction
+
+<p align="center">
+  <img width="1320" height="1009" alt="NDPix Photo Library Grid with RAW files and stacks" src="./assets/images/ndpix-tour-1-library.webp" />
+</p>
 * **Zero-import workflow:** Open any folder on your drive or memory card instantly — no long catalog import steps.
 * **Smart Culling & Burst Clustering:** Automatic burst detection, sharpness evaluation (Laplacian variance), 0–5 star ratings, and Pick/Reject flags.
 * **HDR Fusion:** Exposure bracketing merge in 32-bit float with deghosting.
