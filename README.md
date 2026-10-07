@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img width="1320" height="1009" alt="NDPix Photo Viewer with high-resolution inspection and zoom map" src="./assets/images/ndpix-tour-2-viewer.webp" />
+  <img width="1188" height="1007" alt="NDPix Develop Workspace with 2D Adjustment Panels and Tone Controls" src="./assets/images/adjust-photo-settings-2d-panels.webp" />
 </p>
 
 ## Overview
