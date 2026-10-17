@@ -101,6 +101,7 @@ The assets also include `.zip` archives consumed automatically by the background
 <p align="center">
   <img width="1320" height="1009" alt="NDPix Photo Library Grid with RAW files and stacks" src="./assets/images/ndpix-tour-1-library.webp" />
 </p>
+
 * **Zero-import workflow:** Open any folder on your drive or memory card instantly — no long catalog import steps.
 * **Smart Culling & Burst Clustering:** Automatic burst detection, sharpness evaluation (Laplacian variance), 0–5 star ratings, and Pick/Reject flags.
 * **HDR Fusion:** Exposure bracketing merge in 32-bit float with deghosting.
